@@ -82,7 +82,7 @@ Output
 
 ### Get All User
 
-http://localhost:8080/api/v1/users
+http://localhost:8080/api/v1/users [GET]
 
 Output
 ```
@@ -110,9 +110,9 @@ Output
 }
 ```
 
-###Get User By ID
+### Get User By ID
 
-http://localhost:8080/api/v1/user?user_id=1
+http://localhost:8080/api/v1/user?user_id=1 [GET]
 
 Output
 
