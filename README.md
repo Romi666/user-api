@@ -3,7 +3,7 @@
 # SIMPLE GO REST API
 
 ## What you need
-- IntelliJ, Eclipse, Or VSCode
+- IntelliJ, Goland, Or VSCode
 - Postman application for sending http request and JSON
 - MySQL or Postgre for Database Management System
 - Go Language
